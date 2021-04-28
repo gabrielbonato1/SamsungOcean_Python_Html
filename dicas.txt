@@ -1,0 +1,7 @@
+Faz um novo repositorio no github
+
+Em uma nova guia
+gitpod.io/#[cola o link do repositorio]
+
+Abrir o site
+python3 -m http.server
